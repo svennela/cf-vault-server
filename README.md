@@ -6,7 +6,7 @@ cf push
 
 you can do cf logs vault --recent to copy unseal key to the file
 
-Unseal Key: VYLraWsViEw8jm4ZmMhUkdMWeBrmsJqicxmCPswx0Vs=
+Unseal Key: <unsealkey>
 
 Root Token: 00000000-0000-0000-0000-000000000000
 
