@@ -25,9 +25,6 @@ export VAULT_TOKEN=00000000-0000-0000-0000-000000000000
 
 vault kv put secret/hello foo=world
 
-vault kv get secret/hello
-
-
 ### Reading a Secret
 
 vault kv get secret/hello
