@@ -28,7 +28,7 @@ vault kv put secret/hello foo=world
 vault kv get secret/hello
 
 
-### Writing a Secret
+### Reading a Secret
 
 vault kv get secret/hello
 
